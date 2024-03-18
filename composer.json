@@ -1,0 +1,18 @@
+{
+    "name": "lucas-notini/book-scraper",
+    "description": "Php app to scrap books from a website.",
+    "autoload": {
+        "psr-4": {
+            "LucasNotini\\BookScraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "lucasnotini@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
