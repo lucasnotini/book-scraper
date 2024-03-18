@@ -1,6 +1,6 @@
 # PHP Book Scraper
 
-This PHP project is designed to scrape book information from the website [https://books.toscrape.com/](https://books.toscrape.com/).
+This PHP project is designed to scrape book information from the website (https://books.toscrape.com/).
 
 ## Overview
 
@@ -16,7 +16,7 @@ The PHP Book Scraper utilizes GuzzleHttp for making HTTP requests and DOMDocumen
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/php-book-scraper.git
+    git clone (https://github.com/lucasnotini/book-scraper.git)
     ```
 
 2. Navigate to the project directory:
